@@ -21,7 +21,7 @@ The project explores trends in imports, exports, transport modes, and daily trad
 
 # Screenshots of the results are attached in the project itself.
 
-<b>🏅 Acknowledgment</b>>
+<b>🏅 Acknowledgment</b>
 
 Dataset used for educational & analytical purposes.
 Developed as part of a Data Analysis Task – Elevate Internship Program.
